@@ -8,6 +8,8 @@
 
 ##Vagrantの準備
 
+- [x] 最初に ホームディレクトリ（/Users/taichi）に Vagrant という名前の作業用フォルダを作っておくと便利
+
 ###①Vagrant Boxの準備
 
 ```bash
