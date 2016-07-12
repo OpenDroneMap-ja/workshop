@@ -1,6 +1,10 @@
 # OpenDroneMap_Workshop - How to "OpenDroneMap"
 仮想環境に6GB割り当ててます。その負荷に耐えられるPCを準備してください。
 
+##事前インストール
+- [x] Virtualbox: https://www.virtualbox.org/wiki/Downloads
+- [x] Vagrant: https://www.vagrantup.com/downloads.html
+
 
 ##Vagrantの準備
 
@@ -92,8 +96,13 @@ Vagrant.configure(2) do |config|
   # SHELL
 end 
 
-$ vagrant ssh
 ```
+
+## 以下の仮想環境立ち上げコマンドを実行
+
+$ vagrant up
+
+$ vagrant ssh
 
 ##OpenDroneMapのインストール
 
