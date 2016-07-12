@@ -1,4 +1,4 @@
-#How to "OpenDroneMap"
+# OpenDroneMap_Workshop - How to "OpenDroneMap"
 仮想環境に6GB割り当ててます。その負荷に耐えられるPCを準備してください。
 
 
