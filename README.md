@@ -92,8 +92,13 @@ Vagrant.configure(2) do |config|
   # SHELL
 end 
 
-$ vagrant ssh
 ```
+
+## 以下の仮想環境立ち上げコマンドを実行
+
+$ vagrant up
+
+$ vagrant ssh
 
 ##OpenDroneMapのインストール
 
